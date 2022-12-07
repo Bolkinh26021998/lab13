@@ -1,0 +1,18 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(20210228155400_IMG_2660.JPG);
+  height: 450px;
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(IMGP1199.JPG);
+  height: 450px;
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(IMGP1254.JPG);
+  height: 450px;
+}
